@@ -1,6 +1,6 @@
-## Informatica (2022/2023) at Politecnico di Torino
+## Informatica (corso base al primo anno) at Politecnico di Torino
 
-Materiale per il corso di Informatica (cod. 14BHD) tenuto al Politecnico di Torino dal prof. Fulvio Corno nell'anno accademico 2022/2023.
+Materiale per il corso di Informatica (cod. 14BHD) tenuto al Politecnico di Torino dal prof. Fulvio Corno.
 
 🏠 [Pagina principale del corso](http://bit.ly/polito-informatica)
 
