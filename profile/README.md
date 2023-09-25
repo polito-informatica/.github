@@ -4,7 +4,7 @@ Materiale per il corso di Informatica (cod. 14BHD) tenuto al Politecnico di Tori
 
 🏠 [Pagina principale del corso](http://bit.ly/polito-informatica)
 
-📘 [Materiale del corso (slide, istruzioni, prontuario, esempi)](https://github.com/polito-informatica/Materiale)
+📘 [Materiale del corso (slide, istruzioni, prontuario, esempi)](https://polito-informatica.github.io/Materiale/)
 
 💻 [Esercizi di laboratorio](https://github.com/polito-informatica/Laboratori) e relative soluzioni
 
