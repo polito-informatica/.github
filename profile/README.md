@@ -1,4 +1,4 @@
-# Informatica (corso base al primo anno) at Politecnico di Torino
+# Informatica (corso base al primo anno) al Politecnico di Torino
 
 Materiale per il corso di Informatica (cod. 14BHD) tenuto al Politecnico di Torino dal prof. Fulvio Corno.
 
@@ -10,16 +10,23 @@ Materiale per il corso di Informatica (cod. 14BHD) tenuto al Politecnico di Tori
 
 ### 🔥 [Testi d'esame ed esercizi di preparazione all'esame](https://github.com/polito-informatica/Esempi-esame) (con alcune soluzioni)
 
-### 🎞️ [Video lezioni (YouTube)](https://www.youtube.com/playlist?list=PLqRTLlwsxDL_RNaOl9PPAVavu8p6j4iQZ) del 2023/24
+### 🎞️ Video lezioni (YouTube) del 2024/25
 
-### ⌨️ [Esercizi svolti durante le lezioni](https://github.com/polito-informatica/Settimane2023) del 2023/24
+### ⌨️ [Esercizi svolti durante le lezioni](https://github.com/polito-informatica/Settimane2023) del 2024/25
+
 
 <hr/>
 
 ## Materiale degli anni accademici precedenti
 
+### Anno 2023/24
+
+🎞️ [Video lezioni (YouTube)](https://www.youtube.com/playlist?list=PLqRTLlwsxDL_RNaOl9PPAVavu8p6j4iQZ) del 2023/24
+
+⌨️ [Esercizi svolti durante le lezioni](https://github.com/polito-informatica/Settimane2023) del 2023/24
+
 ### Anno 2022/23
 
 🎞️ [Video lezioni (YouTube)](https://youtube.com/playlist?list=PLqRTLlwsxDL-yRy3U34aImItjkWhcnSdY)
 
-⌨️ [Esercizi svolti durante le lezioni ](https://github.com/polito-info-2022/Settimane)
+⌨️ [Esercizi svolti durante le lezioni](https://github.com/polito-info-2022/Settimane)
