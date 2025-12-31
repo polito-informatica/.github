@@ -2,13 +2,15 @@
 
 Materiale per il corso di Informatica (cod. 14BHD) tenuto al Politecnico di Torino dal prof. Fulvio Corno.
 
-### 🏠 [Pagina principale del corso](http://bit.ly/polito-informatica)
+### 🏠 [Pagina principale del corso](https://elite.polito.it/teaching/14bhd-informatica)
 
 ### 📘 [Materiale del corso (slide, istruzioni, prontuario, esempi)](https://polito-informatica.github.io/Materiale/)
 
 ### 💻 [Esercizi di laboratorio](https://github.com/polito-informatica/Laboratori) e relative soluzioni
 
 ### 🔥 [Testi d'esame ed esercizi di preparazione all'esame](https://github.com/polito-informatica/Esempi-esame) (con alcune soluzioni)
+
+Anno 2025/26:
 
 ### 🎞️ [Video lezioni (YouTube) del 2025/26](https://youtube.com/playlist?list=PLqRTLlwsxDL_HVS9YifixXFjVmRCiCLh0)
 
