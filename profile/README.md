@@ -23,7 +23,7 @@ Anno 2026/27:
 
 ### Anno 2025/26
 
-🎞️ [Video lezioni (YouTube) del 2026/27(https://youtube.com/playlist?list=PLqRTLlwsxDL_HVS9YifixXFjVmRCiCLh0)
+🎞️ [Video lezioni (YouTube)](https://youtube.com/playlist?list=PLqRTLlwsxDL_HVS9YifixXFjVmRCiCLh0) del 2026/27
 
 ⌨️ [Esercizi svolti durante le lezioni](https://github.com/polito-informatica/Settimane2025) del 2025/26 ('Settimane')
 
