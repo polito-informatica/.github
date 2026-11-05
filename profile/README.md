@@ -6,13 +6,15 @@ Materiale per il corso di Informatica (cod. 14BHD) tenuto al Politecnico di Tori
 
 ### 📘 [Materiale del corso (slide, istruzioni, prontuario, esempi)](https://polito-informatica.github.io/Materiale/)
 
-### 💻 [Esercizi di laboratorio](https://github.com/polito-informatica/Laboratori) e relative soluzioni
+### 💻 [Esercizi di laboratorio](https://github.com/polito-informatica/Laboratori2026) del 2026/27
+
+#### 💻 [Esercizi di laboratorio](https://github.com/polito-informatica/Laboratori) degli anni precedenti e relative soluzioni
 
 ### 🔥 [Testi d'esame ed esercizi di preparazione all'esame](https://github.com/polito-informatica/Esempi-esame) (con alcune soluzioni)
 
 Anno 2026/27:
 
-### 🎞️ Video lezioni (YouTube) del 2026/27
+### 🎞️ [Video lezioni (YouTube)](https://www.youtube.com/playlist?list=PLbG0---ovTIs) del 2026/27
 
 ### ⌨️ [Esercizi svolti durante le lezioni](https://github.com/polito-informatica/Settimane2026) del 2026/27 ('Settimane')
 
